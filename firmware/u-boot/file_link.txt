@@ -1,0 +1,25 @@
+../../../../linux/arch/arm/mach-mt85xx/mt85xx_pinmux_table.h -> include/asm-arm/arch-mt8530/mt85xx_pinmux_table.h
+../../../../linux/arch/arm/mach-mt85xx/mt8530_pinmux_table.h -> include/asm-arm/arch-mt8530/mt8530_pinmux_table.h
+../../../../linux/arch/arm/mach-mt85xx/mt8550_pinmux_table.h -> include/asm-arm/arch-mt8530/mt8550_pinmux_table.h
+../../../../linux/arch/arm/mach-mt85xx/mt8652_pinmux_table.h -> include/asm-arm/arch-mt8530/mt8652_pinmux_table.h
+../../../../linux/arch/arm/mach-mt85xx/mt8555_pinmux_table.h -> include/asm-arm/arch-mt8530/mt8555_pinmux_table.h
+../../../../linux/arch/arm/mach-mt85xx/mt8560_pinmux_table.h -> include/asm-arm/arch-mt8530/mt8560_pinmux_table.h
+../../../../linux/arch/arm/mach-mt85xx/mt8561_pinmux_table.h -> include/asm-arm/arch-mt8530/mt8561_pinmux_table.h
+../../../../linux/arch/arm/mach-mt85xx/mt8563_pinmux_table.h -> include/asm-arm/arch-mt8530/mt8563_pinmux_table.h
+../../../../linux/arch/arm/mach-mt85xx/mt8580_pinmux_table.h -> include/asm-arm/arch-mt8530/mt8580_pinmux_table.h
+../../../../linux/arch/arm/mach-mt85xx/include/mach/mt85xx_gpio_pinmux.h -> include/asm-arm/arch-mt8530/mt85xx_gpio_pinmux.h
+../../../../linux/arch/arm/mach-mt85xx/include/mach/mt8530_gpio_pinmux.h -> include/asm-arm/arch-mt8530/mt8530_gpio_pinmux.h
+../../../../linux/arch/arm/mach-mt85xx/include/mach/mt8550_gpio_pinmux.h -> include/asm-arm/arch-mt8530/mt8550_gpio_pinmux.h
+../../../../linux/arch/arm/mach-mt85xx/include/mach/mt8652_gpio_pinmux.h -> include/asm-arm/arch-mt8530/mt8652_gpio_pinmux.h
+../../../../linux/arch/arm/mach-mt85xx/include/mach/mt8555_gpio_pinmux.h -> include/asm-arm/arch-mt8530/mt8555_gpio_pinmux.h
+../../../../linux/arch/arm/mach-mt85xx/include/mach/mt8560_gpio_pinmux.h -> include/asm-arm/arch-mt8530/mt8560_gpio_pinmux.h
+../../../../linux/arch/arm/mach-mt85xx/include/mach/mt8561_gpio_pinmux.h -> include/asm-arm/arch-mt8530/mt8561_gpio_pinmux.h
+../../../../linux/arch/arm/mach-mt85xx/include/mach/mt8563_gpio_pinmux.h -> include/asm-arm/arch-mt8530/mt8563_gpio_pinmux.h
+../../../../linux/arch/arm/mach-mt85xx/include/mach/mt8580_gpio_pinmux.h -> include/asm-arm/arch-mt8530/mt8580_gpio_pinmux.h
+
+../../../../linux/arch/arm/mach-mt85xx/include/mach/mt8560_irqs_vector.h -> include/asm-arm/arch-mt8530/mt8560_irqs_vector.h
+../../../../linux/arch/arm/mach-mt85xx/include/mach/mt8561_irqs_vector.h -> include/asm-arm/arch-mt8530/mt8561_irqs_vector.h
+../../../../linux/arch/arm/mach-mt85xx/include/mach/mt8563_irqs_vector.h -> include/asm-arm/arch-mt8530/mt8563_irqs_vector.h
+../../../../linux/arch/arm/mach-mt85xx/include/mach/mt8580_irqs_vector.h -> include/asm-arm/arch-mt8530/mt8580_irqs_vector.h
+
+../../../../build_linux/include/config/arch/chip_ver.h -> include/chip_ver.h
